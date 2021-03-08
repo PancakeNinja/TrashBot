@@ -19,3 +19,7 @@ The initial start-up will take around 30-60 seconds, depending on your computer.
 Again, if you have any questions, feel free to message me and I will try to answer them!
 
 The .exe can be downloaded [here](https://mega.nz/folder/BCZE3bxT#UbxrxNt4BfOheOQ2rLNRiA)!
+
+# The Source Code
+
+I will upload the source code to a Github repository once I cleaned it up a bit and made it easier to use with a terminal. You know what they say... _it works on my machine_
